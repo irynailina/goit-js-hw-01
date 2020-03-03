@@ -13,5 +13,4 @@ if (password === null) {
     message = 'Доступ запрещен, неверный пароль!'
 }
 
-console.log(message);
 alert(message);
