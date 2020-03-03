@@ -4,7 +4,7 @@ const credits = 23580;
 
 const pricePerDroid = 3000;
 
-let countDroidToBuy = prompt("How many droids do you want to buy?");
+const countDroidToBuy = prompt("How many droids do you want to buy?");
 
 
 if (countDroidToBuy === null) {
